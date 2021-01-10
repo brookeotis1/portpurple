@@ -23,7 +23,7 @@ html {
 }
 .menu a {
     text-decoration: none;
-    color: gray;
+    color: rgb(128, 128, 128);
     margin: 0 10 px;
     line-height: 70px;
     float:right;
@@ -47,7 +47,7 @@ label{
         cursor: pointer;
     }
     .menu {
-        text-aligh: center;
+        text-align: center;
         width: 100%;
         display: none;
     }
@@ -95,3 +95,5 @@ label{
         width: 100%;
         height: 2.5rem;
       }    
+
+  
